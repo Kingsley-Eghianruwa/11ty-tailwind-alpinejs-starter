@@ -8,12 +8,12 @@ Adapted for my project use. Working with EJS rather than nunjucks
 
 ### 1. Clone this repository
 
-
+https://github.com/Kingsley-Eghianruwa/11ty-tailwind-alpinejs-starter.git my-new-project
 
 ### 2. Navigate to the directory
 
 ```
-cd my-website-name
+cd my-new-project
 ```
 
 ### 3. Install the dependencies
